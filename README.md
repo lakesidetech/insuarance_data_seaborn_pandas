@@ -29,6 +29,10 @@
                 * height=4, aspect=.7);
                 * ![image](https://user-images.githubusercontent.com/17750481/113337591-a7ed6b80-9330-11eb-8dea-b64841f281b7.png)
 ![image](https://user-images.githubusercontent.com/17750481/113337742-dc612780-9330-11eb-8d56-6599ffde849c.png)
+# Contingency Table showing correlation between Gender and Insurance
+
+![image](https://user-images.githubusercontent.com/17750481/113338077-4f6a9e00-9331-11eb-89c3-84856ec3dae8.png)
+
 
 # visualize categorical variables gender and insuarance with heatmaps
 # see visually the contingency tables using seaborn heatmaps
