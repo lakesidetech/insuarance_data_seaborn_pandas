@@ -20,6 +20,15 @@
 ![image](https://user-images.githubusercontent.com/17750481/113332542-f51a0f00-9329-11eb-9562-2ad13dabc621.png)
 # Print/Display the Column Information
 ![image](https://user-images.githubusercontent.com/17750481/113332921-8093a000-932a-11eb-9e74-ddbd93108928.png)
+
+# Generates a seaborn count plot of the gender
+* ![image](https://user-images.githubusercontent.com/17750481/113337408-68268400-9330-11eb-9a3b-179f3b7e8bac.png)
+
+##6: Generates a count plot for Insurance
+* g = sns.catplot(x="Insurance",data=chit_data, kind="count",
+                * height=4, aspect=.7);
+                * ![image](https://user-images.githubusercontent.com/17750481/113337591-a7ed6b80-9330-11eb-8dea-b64841f281b7.png)
+
 # visualize categorical variables gender and insuarance with heatmaps
 # see visually the contingency tables using seaborn heatmaps
 plt.figure(figsize=(12,8)) 
