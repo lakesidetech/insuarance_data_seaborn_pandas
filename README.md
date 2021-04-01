@@ -36,10 +36,10 @@
 
 # visualize categorical variables gender and insuarance with heatmaps
 # see visually the contingency tables using seaborn heatmaps
-plt.figure(figsize=(12,8)) 
-ax=sns.heatmap(data_crosstab, annot=True, cmap="YlGnBu")
-ax.set_title('Python Advances Class Insurances')
-plt.show()
+* plt.figure(figsize=(12,8)) 
+* ax=sns.heatmap(data_crosstab, annot=True, cmap="YlGnBu")
+* ax.set_title('Python Advances Class Insurances')
+* plt.show()
 
 ![image](https://user-images.githubusercontent.com/17750481/113336827-9d7ea200-932f-11eb-8ed9-c8f5097bc835.png)
 
